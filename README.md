@@ -47,6 +47,11 @@ This repository is prepared to provide practise qustions for dsa
 
 ## Recursion + DP
 - [ ] 42. [Tower Of Hanoi](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1)
+- [ ] 52. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)
+- [ ] 53. [Frog Jump](https://www.geeksforgeeks.org/problems/geek-jump/1)
+- [ ] 54. [Minimal Cost](https://www.geeksforgeeks.org/problems/minimal-cost/1)
+- [ ] 55. [House Robber](https://leetcode.com/problems/house-robber/description/)
+- [ ] 56. [House Robber II](https://leetcode.com/problems/house-robber-ii/description/)
 
 ## Linked List
 - [ ] 43. [Reverse a Linked List](https://www.geeksforgeeks.org/dsa/reverse-a-linked-list/)
